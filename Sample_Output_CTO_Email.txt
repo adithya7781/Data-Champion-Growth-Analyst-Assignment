@@ -1,0 +1,13 @@
+Subject: Scaling {{company_name}} after {{recent_event}}
+
+Hi {{company_name}} Tech Team,
+
+Saw {{recent_event}} at {{company_name}} — this is usually the stage where D2C engineering teams start feeling pressure from performance bottlenecks and messy attribution across stacks like {{tech_stack}}.
+
+{{product_name}} helps teams stabilize data flow and reduce tracking inconsistencies without replacing their existing infrastructure. Similar D2C brands have improved checkout reliability and reduced analytics mismatches by 20–35%.
+
+Recently, a mid-scale D2C company handling ~{{scale}} monthly traffic used {{product_name}} to cut data latency by 42% and lower server overhead by 28% within six weeks.
+
+If helpful, I can walk you through the actual architecture and implementation approach.
+
+Open to a 15-minute technical walkthrough this week?
